@@ -1,0 +1,17 @@
+cool\_project package
+=====================
+
+Submodules
+----------
+
+.. toctree::
+
+   cool_project.cool_project
+
+Module contents
+---------------
+
+.. automodule:: cool_project
+   :members:
+   :undoc-members:
+   :show-inheritance:

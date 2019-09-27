@@ -1,0 +1,7 @@
+cool\_project.cool\_project module
+==================================
+
+.. automodule:: cool_project.cool_project
+   :members:
+   :undoc-members:
+   :show-inheritance:
