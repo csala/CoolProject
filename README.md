@@ -72,7 +72,8 @@ make install
 If you want to contribute to the project, a few more steps are required to make the project ready
 for development.
 
-Please head to the [Contributing Guide](CONTRIBUTING.rst) for more details about this process.
+Please head to the [Contributing Guide](https://DAI-Lab.github.io/CoolProject/contributing.html#get-started)
+for more details about this process.
 
 # Quickstart
 

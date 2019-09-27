@@ -5,7 +5,7 @@
 
 import unittest
 
-from cool_project import cool_project
+# from cool_project import cool_project
 
 
 class TestCool_project(unittest.TestCase):
