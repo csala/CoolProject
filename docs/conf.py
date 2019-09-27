@@ -57,10 +57,10 @@ master_doc = 'index'
 project = 'Cool Project'
 slug = 'cool_project'
 title = project + ' Documentation',
-copyright = '2019, MIT Data To AI Lab'
-author = 'MIT Data To AI Lab'
-description = 'Python Boilerplate contains all the boilerplate you need to create a Python package.'
-user = 'DAI-Lab'
+copyright = '2019, Carles Sala'
+author = 'Carles Sala'
+description = 'Cookiecutter testing playground.'
+user = 'csala'
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout

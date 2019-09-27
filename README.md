@@ -4,16 +4,16 @@
 </p>
 
 [![PyPI Shield](https://img.shields.io/pypi/v/cool-project.svg)](https://pypi.python.org/pypi/cool-project)
-[![Travis CI Shield](https://travis-ci.org/DAI-Lab/CoolProject.svg?branch=master)](https://travis-ci.org/DAI-Lab/CoolProject)
-[![Coverage Status](https://codecov.io/gh/DAI-Lab/CoolProject/branch/master/graph/badge.svg)](https://codecov.io/gh/DAI-Lab/CoolProject)
+[![Travis CI Shield](https://travis-ci.org/csala/CoolProject.svg?branch=master)](https://travis-ci.org/csala/CoolProject)
+[![Coverage Status](https://codecov.io/gh/csala/CoolProject/branch/master/graph/badge.svg)](https://codecov.io/gh/csala/CoolProject)
 [![Downloads](https://pepy.tech/badge/cool-project)](https://pepy.tech/project/cool-project)
 
 # Cool Project
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Cookiecutter testing playground.
 
-- Documentation: https://DAI-Lab.github.io/CoolProject
-- Homepage: https://github.com/DAI-Lab/CoolProject
+- Documentation: https://csala.github.io/CoolProject
+- Homepage: https://github.com/csala/CoolProject
 
 # Overview
 
@@ -61,7 +61,7 @@ Alternatively, with your virtualenv activated, you can clone the repository and 
 source by running `make install` on the `stable` branch:
 
 ```bash
-git clone git@github.com:DAI-Lab/CoolProject.git
+git clone git@github.com:csala/CoolProject.git
 cd CoolProject
 git checkout stable
 make install
@@ -72,7 +72,7 @@ make install
 If you want to contribute to the project, a few more steps are required to make the project ready
 for development.
 
-Please head to the [Contributing Guide](https://DAI-Lab.github.io/CoolProject/contributing.html#get-started)
+Please head to the [Contributing Guide](https://csala.github.io/CoolProject/contributing.html#get-started)
 for more details about this process.
 
 # Quickstart
@@ -88,4 +88,4 @@ TODO: Provide a step by step guide here.
 
 For more details about **Cool Project** and all its possibilities
 and features, please check the [documentation site](
-https://DAI-Lab.github.io/CoolProject/).
+https://csala.github.io/CoolProject/).

@@ -53,8 +53,8 @@ development_requires = [
 ]
 
 setup(
-    author='MIT Data To AI Lab',
-    author_email='dailabmit@gmail.com',
+    author='Carles Sala',
+    author_email='csala@csail.mit.edu',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -66,7 +66,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    description='Python Boilerplate contains all the boilerplate you need to create a Python package.',
+    description='Cookiecutter testing playground.',
     extras_require={
         'test': tests_require,
         'dev': development_requires + tests_require,
@@ -84,7 +84,7 @@ setup(
     setup_requires=setup_requires,
     test_suite='tests',
     tests_require=tests_require,
-    url='https://github.com/DAI-Lab/CoolProject',
-    version='0.1.0',
+    url='https://github.com/csala/CoolProject',
+    version='0.1.0-dev',
     zip_safe=False,
 )
